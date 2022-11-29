@@ -64,5 +64,9 @@ public class LineComparision {
 	static double getLength(float X1, float Y1, float X2, float Y2) {
 	    return Math.sqrt(Math.pow(X2 - X1, 2) + Math.pow(Y2 - Y1, 2));
 
+    }
 }
-}
+
+
+
+
